@@ -81061,7 +81061,7 @@ $0(){this.a.Q.m(0,this.b,this.c===!0)},
 $S:0}
 B.Kt.prototype={
 M(a){var s=null
-return new B.yW(new B.ya(s),"Library Management",B.u5(s,s,A.k0,s),!1,s)}}
+return new B.yW(new B.ya(s),"SMCYA Library Management",B.u5(s,s,A.k0,s),!1,s)}}
 B.ya.prototype={
 aj(){return new B.QX()}}
 B.QX.prototype={
