@@ -87610,7 +87610,7 @@ if(l.length===0||j.length===0){s=1
 break}o=++p.z
 n=t.N
 s=3
-return B.r(p.w.dL("members").pj(0,B.a_(["name",l,"email",j,"phone",h,"code","mb"+o],n,n)),$async$yR)
+return B.r(p.w.dL("members").pj(0,B.a_(["name",l,"email",j,"phone",h,"code","SMCYA-"+o],n,n)),$async$yR)
 case 3:m.ed(A.c_)
 k.ed(A.c_)
 i.ed(A.c_)
